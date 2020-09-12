@@ -21,6 +21,8 @@
 ## UI Designer
  - Clear idea on what to design.
  - Develop creative thinking skills and innovative ideas.
+ - Improve the look and feel of interactive computers and product software
+ - It is a technical role that is responsible for presenting a product development in a way that is attractive and convenient for users.
  - Should be aware of the tools and softwares they are going to use.
  - Able to design user friendly interactive web pages following the design standerds.
  - Good design makes everything memorable and meaningful. 
