@@ -10,7 +10,7 @@
 
 ## UI Developer
 1. Working with clients to develop the overall look and design of a website.
-2. Writing website code with programming languages such as HTML, C++ and Java.
+2. Writing website code with programming languages such as HTML, CSS, JavaScript, Nodejs.
 3. Producing, maintaining and modifying websites and user interfaces.
 4. Incorporating applications, graphics, audio and video clips into client websites.
 5. Creating tools that enhance the user's website experience.
