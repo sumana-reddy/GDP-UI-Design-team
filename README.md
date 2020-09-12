@@ -22,7 +22,7 @@
  - Clear idea on what to design.
  - Develop creative thinking skills and innovative ideas.
  - Should be aware of the tools and softwares they are going to use.
- - Able to design user friendly interactive web pages following the design standereds.
+ - Able to design user friendly interactive web pages following the design standerds.
  - Good design makes everything memorable and meaningful. 
  - Adding emotions using breathtaking images, vibrant colors and exiting fonts on the pages.
  - Co-ordinating with the clients frequently  and reaching their expectations 
