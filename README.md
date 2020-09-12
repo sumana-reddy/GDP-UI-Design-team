@@ -24,7 +24,7 @@
  - Improve the look and feel of interactive computers and product software
  - It is a technical role that is responsible for presenting a product development in a way that is attractive and convenient for users.
  - Should be aware of the tools and softwares they are going to use.
- - Able to design user friendly interactive web pages following the design standerds.
+ - Able to design user friendly interactive web pages following the design standards.
  - Good design makes everything memorable and meaningful. 
  - Adding emotions using breathtaking images, vibrant colors and exiting fonts on the pages.
  - Co-ordinating with the clients frequently  and reaching their expectations 
