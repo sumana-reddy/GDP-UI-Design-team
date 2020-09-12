@@ -13,6 +13,7 @@
 
 ## HalfDay-3
 * I Joined in a team zoom meeting to follow up with the future tasks
+![zoom](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/UIDev/zoom.jpeg)
 * I discussed with other UI developer in my team to create a sample project for the pwa.
 * We researched about the dependencies to include in the project
 * We discussed about the work flow between the UI Designer, UI Developer and the Graphic Designer
