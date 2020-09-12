@@ -39,7 +39,8 @@
 ## UX Developer
 
 +  meet with clients to find out what they want from their web applications and online projects, especially regarding user interface and experience.
-+ present web design plans and UI layout ideas to clients.
++ Should give a clear flow of the web application to the UI designers.
++ Should scale the user experiance and help the UI group to degin a clear vision UI for the web application.
 + create various web applications using code and visual design skills. They also design and create user interface layouts and web pages aimed at maximizing the user experience.
 + perform usability tests and analyze the results to gauge the consumer’s experience when using web applications and online programs.
 + analyze user data to evaluate user interfaces for existing applications and web pages and to identify areas needing improvement.
