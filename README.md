@@ -34,6 +34,8 @@
 -  Better the design,better the business.proper fonts with animation and graphics makes it more effective. 
 - providing a feeback, when a particular button is pressed, provide an indication that the button was pressed like loading without having to say it.
 - Icons are selected in such away that users able to identify its functionalities easily.
+- make use of relative fonts,buttons, animation,creative coloring to look the App more attractive and effecient. 
+
 
 
 ## UX Developer
