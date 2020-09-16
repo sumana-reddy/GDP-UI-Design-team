@@ -63,7 +63,6 @@
 
 ## Screens
 ## Application UI
-Here is how the Sign up page looks like.
 ![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true)
 ![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true)
 ![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG)
