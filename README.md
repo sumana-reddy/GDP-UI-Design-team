@@ -71,6 +71,7 @@
 ![Create Event](https://github.com/Dixith1196/THE-HUNT/blob/master/createEvent.PNG)
 ![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true)
 ![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG)
+![Create Competition](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/UX_Developers/Capture.PNG)
 
 
 
