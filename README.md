@@ -61,6 +61,19 @@
 11. Produce drafts for review by clients and make revisions based on the feedback received.
 12. Review final productions for errors and ensure that final prints reflect client specifications.
 
+## Screens
+## Application UI
+![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true)
+![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true)
+![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG)
+![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true)
+![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG)
+![Create Event](https://github.com/Dixith1196/THE-HUNT/blob/master/createEvent.PNG)
+![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true)
+![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG)
+
+
+
 # MVC Architecture
 
 ## Models:
