@@ -86,10 +86,6 @@
 * password input field is to enter his password
 * Log-in button is for authenticating the user with his crendentials
 
-## Models:
-1. Models are used to store data using data sets
-2. The Model component corresponds to all the data-related logic that the user works with.
 
-When the user tries to login-in, The data which the user enters in the userid box and the password box will go into the data base and checks for the user credentials, If the credentials match then it manipulates and updates the data back to the database or use it to render data.
 
 
