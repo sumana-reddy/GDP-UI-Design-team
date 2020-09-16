@@ -75,10 +75,21 @@
 
 
 # MVC Architecture
+## Views:
+### Sign-up page:
+* username input field is for creating a unique username for the user
+* email input field is to enter the email-id of the user 
+* password input field is to create the user's unique password 
+* submit button is used to register user's identity
+### Log-in page:
+* username input field is to enter the user's unique username
+* password input field is to enter his password
+* Log-in button is for authenticating the user with his crendentials
 
 ## Models:
 1. Models are used to store data using data sets
 2. The Model component corresponds to all the data-related logic that the user works with.
 
 When the user tries to login-in, The data which the user enters in the userid box and the password box will go into the data base and checks for the user credentials, If the credentials match then it manipulates and updates the data back to the database or use it to render data.
+
 
