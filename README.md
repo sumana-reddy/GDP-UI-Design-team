@@ -85,6 +85,17 @@
 * username input field is to enter the user's unique username
 * password input field is to enter his password
 * Log-in button is for authenticating the user with his crendentials
+### Home page:
+* ul list to display list of quests
+* quest name label to display quest name
+* Join button is used to register for the quest
+* Menu bar with 5 navigation tabs to navigate between the different screens
+* Home tab with home icon to navigate to the home screen (Currently active)
+* Leaderboard tab to navigate to the leaderboard screen
+* Create team tab to navigate to create team screen
+* create quest tab to navigate to create quest screen
+* Profile tab to navigate to user profile screen
+
 
 
 
