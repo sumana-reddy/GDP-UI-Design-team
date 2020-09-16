@@ -77,10 +77,11 @@
 # MVC Architecture
 ## Views:
 ### Sign-up page:
-* username input field is for creating a unique username for the user
-* email input field is to enter the email-id of the user 
-* password input field is to create the user's unique password 
-* submit button is used to register user's identity
+* username input field is for creating a unique username for the user.
+* email input field is to enter the email-id of the user.
+* Each user should have unique email-id.
+* password input field is to create the user's unique password.
+* submit button is used to register user's identity and navigates to next page.
 ### Log-in page:
 * username input field is to enter the user's unique username
 * password input field is to enter his password
