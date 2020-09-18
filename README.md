@@ -70,9 +70,9 @@
 ![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG) <br>
 ![Create Event](https://github.com/Dixith1196/THE-HUNT/blob/master/createEvent.PNG) <br>
 ![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true) <br>
-![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG) <br>
-![Create Competition](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png) <br>
-
+![profile](https://github.com/Dixith119https://github.com6/THE-HUNT/blob/master/prof.PNG) <br>
+![Create Competition](/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png) <br>
+![Team Creation](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png)
 
 
 # MVC Architecture
