@@ -63,15 +63,15 @@
 
 ## Screens
 ## Application UI
-![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true)
-![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true)
-![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG)
-![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true)
-![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG)
-![Create Event](https://github.com/Dixith1196/THE-HUNT/blob/master/createEvent.PNG)
-![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true)
-![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG)
-![Create Competition](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png)
+![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true) <br>
+![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true) <br>
+![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG) <br>
+![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true) <br>
+![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG) <br>
+![Create Event](https://github.com/Dixith1196/THE-HUNT/blob/master/createEvent.PNG) <br>
+![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true) <br>
+![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG) <br>
+![Create Competition](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png) <br>
 
 
 
