@@ -64,7 +64,7 @@
 ## Screens
 ## Application UI
 ![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true) <br>
-![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true) <br>
+![Login page](https://raw.githubusercontent.com/sumana-reddy/GDP-UI-Design-team/master/UX_Developers/Login%20(2).PNG) <br>
 ![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG) <br>
 ![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true) <br>
 ![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG) <br>
