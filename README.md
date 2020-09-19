@@ -62,7 +62,7 @@
 12. Review final productions for errors and ensure that final prints reflect client specifications.
 
 ## Screens
-## Application UI
+## Application UI9
 ![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true) <br>
 ![Login page](https://raw.githubusercontent.com/sumana-reddy/GDP-UI-Design-team/master/UX_Developers/Login%20(2).PNG) <br>
 ![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG) <br>
@@ -74,6 +74,8 @@
 ![profile](https://github.com/Dixith119https://github.com6/THE-HUNT/blob/master/prof.PNG) <br>
 ![Create Competition](/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png) <br>
 ![Team Creation](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png)
+![Forgot password](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/ForgotPassword.png)
+
 
 
 # MVC Architecture
