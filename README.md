@@ -76,12 +76,7 @@
 ![Team Creation](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Teamcreation.png)
 ![Forgot password](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Forgot_password.png)
 ![Password_reset_code](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Password_reset_Code.png)
-<<<<<<< HEAD
 ![Location_Screen](Screens\Location Screen.jpeg)
-=======
-![New_password](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/New_password.png)
-
->>>>>>> 33763d9938f894a9539b43ce6b56f51ab39b7179
 
 
 
