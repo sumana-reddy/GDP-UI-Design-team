@@ -68,6 +68,7 @@
 ![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG) <br>
 ![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true) <br>
 ![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG) <br>
+![Team Invite]()
 ![Create Event](https://github.com/Dixith1196/THE-HUNT/blob/master/createEvent.PNG) <br>
 ![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true) <br>
 ![profile](https://github.com/Dixith119https://github.com6/THE-HUNT/blob/master/prof.PNG) <br>
