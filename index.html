@@ -1,51 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title> TREASURE HUNT GAME </title>
-    <meta charset = "UTF-8"/>
-    <link rel = "stylesheet" href= "styles.css">
-    <script src = "main.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
 
 </head>
+
 <body>
-  <br>
-  <br>
-  <br>
-  <p> Built for gamers, game fans & true gaming lovers</p>
-  <br></br>
-</div>
-   <main>
-     <br>
-     <br>
-     <div>
-       <br>
-     </br>
-     <div class="container">
-        <img src="https://previews.123rf.com/images/nearbirds/nearbirds1503/nearbirds150300010/37244275-horizontal-banner-icon-to-the-computer-game-treasure-hunt.jpg" alt="image" width="300" height="300">
+    <main id="main-holder">
+        <h2 id="Hunt-header">The Hunt</h2>
+        <h2 id="login-header">Login</h2>
+
         
-      </div>
-</form>
-    <label for="fname">Username:</label>
-    <input type="text" id="fname" name="fname"><br><br>
-    <label for="lname">Password:</label>
-    <input type="text" id="lname" name="lname"><br><br>
-    <button id = "button", onclick="myFunction()">Click me</button>
-    
-   
 
-<p id="demo">Enjoy the Game.</p>
+        <form id="login-form">
+            <input type="text" name="Email" id="email-field" class="login-form-field" placeholder="Email">
+            <input type="password" name="Password" id="password-field" class="login-form-field" placeholder="Password">
+            <input type="submit" value="Login" id="login-form-submit">
+            
+        </form>
+        <h4 style="color: rgb(29, 82, 66);">Forgot your password?</h4>
+        <h4 style="color: rgb(1, 10, 7);">Don't have an account yet?</h4>
 
-<script>
+        <form id="Signup-form"></form>
+        <input type="submit" value="SignUp" id="Signup-form-submit">
+        </form>
+        <div id="login-error-msg-holder">
+            <p id="login-error-msg">Invalid email <span id="error-msg-second-line">and/or password</span></p>
+        </div>
+
+        <br>
+        <br>
+
+      
+
+
   
-  document.getElementById('demo').addEventListener("click",myfunction); 
-                    
- function myfunction(){
- 
-  document.getElementById('demo').innerHTML = "Enjoy the Game";
- }
-</script>
 
-</div>
-
+    </main>
 </body>
+
 </html>
