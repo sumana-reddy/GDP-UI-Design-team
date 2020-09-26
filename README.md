@@ -78,8 +78,6 @@
 ![Password_reset_code](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Password_reset_Code.png)
 ![Location_Screen](https://github.com/sumana-reddy/GDP-UI-Design-team/blob/master/Location%20Screen.jpeg)
 
-
-
 # MVC Architecture
 ## Views:
 ### Sign-up page:
